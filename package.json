@@ -1,0 +1,30 @@
+{
+  "name": "picosytem-server",
+  "version": "1.0.0",
+  "description": "A TCP server to be used with a hacked picosytem.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pui4/picosystem-server.git"
+  },
+  "keywords": [
+    "raspberry pi",
+    "pico",
+    "pi pico",
+    "raspberry pi pico",
+    "picosytem",
+    "TCP",
+    "pimoroni"
+  ],
+  "homepage": "https://github.com/pui4/picosystem-server",
+  "bugs": {
+    "url": "https://github.com/pui4/picosystem-server/issues"
+  },
+  "author": "Daniel Pitman",
+  "license": "MIT",
+  "bin": "./index.js"
+}
